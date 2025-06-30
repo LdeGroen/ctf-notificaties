@@ -1,20 +1,20 @@
-{
-  "0": {
+[
+  {
     "id": "CTFxdeNijverheid2025_1",
-    "date": "2025-06-30T23:50:00",
-    "text_nl": "Bekijk de app om precies te weten wat er op het CTF speelt!",
-    "text_en": "See the app to know exactly what is performing at the coming CTF"
+    "date": "2025-07-01T00:00:15",
+    "text_nl": "Test 1",
+    "text_en": "Test 1"
   },
-  "1": {
+  {
     "id": "CTFxdeNijverheid2025_2",
     "date": "2025-06-30T23:55:00",
-    "text_nl": "Morgen begint CTF x de Nijverheid! Mis het niet.",
-    "text_en": "CTF x de Nijverheid starts tomorrow! Don't miss it."
+    "text_nl": "Het is bijna zover! Het CTF x de Nijverheid staat voor de deur. ",
+    "text_en": "CTF x de Nijverheid is almost there!"
   },
-  "2": {
+  {
     "id": "CTFxdeNijverheid2025_3",
-    "date": "2025-07-01T12:00:00",
-    "text_nl": "Morgen begint CTF x de Nijverheid! Mis het niet.",
-    "text_en": "CTF x de Nijverheid starts tomorrow! Don't miss it."
+    "date": "2025-07-01T12:10:00",
+    "text_nl": "Goede morgen!",
+    "text_en": "Good morning!"
   }
-}
+]
