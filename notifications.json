@@ -22,5 +22,11 @@
     "date": "2025-07-01T21:30:00",
     "text_nl": "Notificatietest 3, heb een prachtige dag!",
     "text_en": "Notification test 3, have a wunderful day!"
+  },
+  {
+    "id": "CTFxdeNijverheid2025_8",
+    "date": "2025-07-01T22:00:00",
+    "text_nl": "Notificatietest 4, heb een prachtige dag!",
+    "text_en": "Notification test 4, have a wunderful day!"
   }
 ]
