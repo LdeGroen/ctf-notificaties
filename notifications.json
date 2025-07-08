@@ -22,5 +22,11 @@
     "date": "2025-07-08T15:30:00",
     "text_nl": "Notificatietest, heb een prachtige dag",
     "text_en": "Notification test, have a wunderful day"
+  },
+    {
+    "id": "Notificatietest_3",
+    "date": "2025-07-09T12:00:00",
+    "text_nl": "Notificatietest, kun je Luc appen als je dit ontvangt?",
+    "text_en": "Notification test, can you text Luc if this notification reaches you?"
   }
 ]
