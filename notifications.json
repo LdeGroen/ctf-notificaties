@@ -28,5 +28,11 @@
     "date": "2025-07-09T12:00:00",
     "text_nl": "Notificatietest, kun je Luc appen als je dit ontvangt?",
     "text_en": "Notification test, can you text Luc if this notification reaches you?"
+  },
+  {
+    "id": "Notificatietest_4",
+    "date": "2025-07-15T13:00:00",
+    "text_nl": "Vandaag is het eindigt de test-fase! Heel erg bedankt",
+    "text_en": "Today the test-phase ends. Thanks a lot!"
   }
 ]
