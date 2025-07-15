@@ -1,43 +1,13 @@
 [
   {
-    "id": "CTFxdeNijverheid2025_4",
-    "date": "2025-07-05T12:17:00",
-    "text_nl": "Morgen spelen twee prachtige CTF voorstellingen tijdens Culturele Zondag op de Nijverheid. Kijk in de app en mis het niet!",
-    "text_en": "Tomorrow, two beautifull CTF performances will play during Culturele Zondag at the Nijverheid. Open the app to miss nothing!"
-  },
-  {
     "id": "CTFxdeNijverheid2025_11",
     "date": "2025-07-02T15:00:00",
     "text_nl": "Notificatietest 3, heb een prachtige dag!",
     "text_en": "Notification test 3, have a wunderful day!"
   },
   {
-    "id": "Notificatietest_1",
-    "date": "2025-07-07T17:00:00",
-    "text_nl": "Notificatietest, kun je Luc appen als je deze notificatie ontvangt?",
-    "text_en": "Notification test, can you text Luc if you've received this notification?"
-  },
-  {
-    "id": "Notificatietest_2",
-    "date": "2025-07-08T15:30:00",
-    "text_nl": "Notificatietest, heb een prachtige dag",
-    "text_en": "Notification test, have a wunderful day"
-  },
-    {
-    "id": "Notificatietest_3",
-    "date": "2025-07-09T12:00:00",
-    "text_nl": "Notificatietest, kun je Luc appen als je dit ontvangt?",
-    "text_en": "Notification test, can you text Luc if this notification reaches you?"
-  },
-  {
-    "id": "Notificatietest_4",
-    "date": "2025-07-15T13:00:00",
-    "text_nl": "Vandaag is het eindigt de test-fase! Heel erg bedankt",
-    "text_en": "Today the test-phase ends. Thanks a lot!"
-  },
-  {
-    "id": "Notificatietest_5",
-    "date": "2025-07-15T14:00:00",
+    "id": "Notificatietest_6",
+    "date": "2025-07-15T16:00:00",
     "text_nl": "Vandaag is het eindigt de test-fase! Heel erg bedankt",
     "text_en": "Today the test-phase ends. Thanks a lot!"
   }
