@@ -34,5 +34,11 @@
     "date": "2025-07-15T13:00:00",
     "text_nl": "Vandaag is het eindigt de test-fase! Heel erg bedankt",
     "text_en": "Today the test-phase ends. Thanks a lot!"
+  },
+  {
+    "id": "Notificatietest_5",
+    "date": "2025-07-15T14:00:00",
+    "text_nl": "Vandaag is het eindigt de test-fase! Heel erg bedankt",
+    "text_en": "Today the test-phase ends. Thanks a lot!"
   }
 ]
