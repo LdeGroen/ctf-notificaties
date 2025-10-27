@@ -1,49 +1,13 @@
 [
   {
-    "id": "CTFxdeNijverheid2025_11",
-    "date": "2025-07-02T15:00:00",
-    "text_nl": "Notificatietest 3, heb een prachtige dag!",
-    "text_en": "Notification test 3, have a wunderful day!"
-  },
-  {
     "id": "Notificatietest_6",
     "date": "2025-07-15T16:00:00",
     "text_nl": "Vandaag is het eindigt de test-fase! Heel erg bedankt",
     "text_en": "Today the test-phase ends. Thanks a lot!"
   },
   {
-    "id": "CTFxdeNijverheid2025_12",
-    "date": "2025-07-17T17:00:00",
-    "text_nl": "Morgen 2 prachtige voorstellingen bij de Nijverheid! Check de app voor meer details",
-    "text_en": "Tomorrow 2 beautifull performances at the Nijverheid! Check the app for more details"
-  },
-  {
-    "id": "CTFxdeNijverheid2025_13",
-    "date": "2025-07-26T17:00:00",
-    "text_nl": "Morgen weer CTF x de Nijverheid! Kijk in de app voor meer details",
-    "text_en": "Tomorrow CTF x de Nijverheid! Check the app for more details"
-  },  
-  {
-    "id": "CTFxdeNijverheid2025_14",
-    "date": "2025-07-31T17:00:00",
-    "text_nl": "Morgen weer CTF x de Nijverheid! Kijk in de app voor meer details",
-    "text_en": "Tomorrow CTF x de Nijverheid! Check the app for more details"
-  },  
-  {
-    "id": "CTFxdeNijverheid2025_15",
-    "date": "2025-08-14T17:00:00",
-    "text_nl": "Morgen weer CTF x de Nijverheid! Kijk in de app voor meer details",
-    "text_en": "Tomorrow CTF x de Nijverheid! Check the app for more details"
-  },  
-  {
-    "id": "CTFxdeNijverheid2025_16",
-    "date": "2025-09-10T17:00:00",
-    "text_nl": "Morgen weer CTF x de Nijverheid! Kijk in de app voor meer details",
-    "text_en": "Tomorrow CTF x de Nijverheid! Check the app for more details"
-  },
-  {
-    "id": "CTFxdeNijverheid2025_17",
-    "date": "2025-09-27T17:00:00",
+    "id": "CTFxdeNijverheid2025_18",
+    "date": "2025-11-13T17:00:00",
     "text_nl": "Morgen weer CTF x de Nijverheid! Kijk in de app voor meer details",
     "text_en": "Tomorrow CTF x de Nijverheid! Check the app for more details"
   }
